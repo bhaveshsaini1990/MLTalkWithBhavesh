@@ -54,13 +54,17 @@ Hope you understand the concept behind ensemble model. Stay tuned for Chapter-3
 Now again, instead of memorizing definition, let’s try to understand:
 
 Boy 1: - His parents want their child to be independent. So, they gave him normal learnings and maximum times it’s his own responsibility to find solution for his problems, whether good or bad doesn’t matter because he even doesn’t know he is right or wrong (Such ML models have low accuracy during training time because model is not learning well on data/model is in underlearning phase).
+
 Boy 2: - His parents want their child to be ready for all problems. So, his parents always suggest him what to do and what not to do in specific situations. That’s why he is able to handle all his problems in right way and in very effective manner (Such ML models have very high accuracy during training time because model have memorized data, so directly making decision according to that memorized information).
+
 Boy 3: - His parents want their child to take right decision by himself in future. So, they are continously in touch with their child, when needed they are helping him but at the same time suggesting him also to take his own decisions based on learning (Such ML models have intermediate-high accuracy because it is taking decision based on his learnings and experiences till now).
 
 After some years (After completion of Training phase, now its time for Testing phase where our ML model have to work against data which our model hasn’t seen yet/new data).
 
 Boy 1: - Even don’t know what to do, because he is not trained enough to handle situations in right way. How to take right decision, so taking decision according to his experiences. (usually have low accuracy in Testing phase).
+
 Boy 2: - Still don’t taking decision from his own mind but relying on what his parents had suggested him and taking decision according to that (have low accuracy in Testing phase).
+
 Boy 3: - Using his mind while working on real time problem considering his past experiences as he already handled many situations till now (have intermediate-high accuracy in Testing phase).
 
 Here, our Boy-1, Boy-2 and Boy-3 are three different ML models and Parents are representing the different ways of learning.
@@ -71,6 +75,7 @@ Boy-2 -> ML Model-2: - Training Accuracy=98% and Testing Accuracy=60%
 Boy-3 -> ML Model-3: - Training Accuracy=85% and Testing Accuracy=80%
 
 Now understanding in single line,
+
 Underfitting/Underlearning – Model working bad on Training as well as Testing dataset.
 Overfitting/Memorizing – Model working good on Training dataset but again getting low accuracy in Testing dataset.
 Optimum/Best fit/Optimum Learning – Model learning the actual scenario giving good comparable accuracy both in Testing as well as Training phase. 
