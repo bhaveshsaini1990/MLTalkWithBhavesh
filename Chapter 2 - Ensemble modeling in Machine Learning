@@ -1,0 +1,39 @@
+Chapter 2 - Ensemble modeling in Machine Learning
+
+Case 1: - Suppose, you want to learn Java. But, you don’t know where to learn. So you discussed with friends and teachers. 
+
+Friend 1: Go for YouTube channel Telusko Learning
+Friend 2: Go for NPTEL Java course by Dr. Debasis Samantha
+Teacher 3: Yes, go for NPTEL. They are from IIT and will explain in detail.
+Friend 4: Don’t do Java. Just chill and enjoy life. Within 2 days we can pass Java exam.
+
+So, as two of them said for NPTEL. So you finally decided to learn Java from NPTEL.
+This is nothing but MaxVoting (a type of ensemble model).
+
+Case 2: - You want to buy a plot at Pune in XYZ location. So you discussed 3 of your relatives in pune about cost estimation of plots in Pune.
+
+Relative 1: It will cost you around 22 Lakhs
+Relative 2: Around 15 Lakhs
+Relative 3: May be around 20 Lakhs
+
+So, simply you made average (22+15+20)/3=19 and estimated final cost of plots at Pune as 19 Lakhs.
+This is known as Averaging (another type of ensemble modeling).
+
+Case 3: - Suppose, you want to learn Java. But, you don’t know where to learn. So you discussed with friends, seniors and teachers. 
+
+Friend 1: Go for YouTube channel Telusko Learning
+Friend 2: Go for NPTEL Java course by Dr. Debasis Samantha
+Teacher 3: Yes, go for NPTEL. They are from IIT and will explain in detail.
+Friend 4: Don’t do Java. Just chill and enjoy life. Within 2 days we can pass Java exam.
+Senior 5 (who is currently 7-star Java coder and working in Amazon as a Java developer): Start learning from Head First Java Book and do coding on HackerRank.
+
+So, here in this case even NPTEL is recommended by two persons, you may go for Head First Java book along with HackerRank. But why? Because 5th person should be given more priority as he is currently in good stage in java field.
+Here, you are simply doing Weighted Averaging (another type of ensemble modeling technique).
+
+But now question comes that is these things related to Machine Learning?
+
+Instead of making a single Machine Learning model for prediction. One can make different different models based on different different algorithms and analyze results of all models for giving final prediction. This is known as Ensemble Modeling (model accurany generally increases after using ensembling). 
+
+In all of the above 3 cases, friends, relatives and teachers are nothing but our different different Machine Learning models which are giving their outputs, and we used ensemble techniques to maximize our accuracy.
+
+Hope you understand the concept behind ensemble model. Stay tuned for Chapter-3
