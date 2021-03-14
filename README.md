@@ -49,7 +49,7 @@ In all of the above 3 cases, friends, relatives and teachers are nothing but our
 
 Hope you understand the concept behind ensemble model. Stay tuned for Chapter-3
 
- 	
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 	
 # Chapter 3 - Underfitting v/s Overfitting v/s Optimum Learning
 Now again, instead of memorizing definition, let’s try to understand:
 
