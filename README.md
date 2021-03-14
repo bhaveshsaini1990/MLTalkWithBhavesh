@@ -70,8 +70,11 @@ Boy 3: - Using his mind while working on real time problem considering his past 
 Here, our Boy-1, Boy-2 and Boy-3 are three different ML models and Parents are representing the different ways of learning.
 
 For example,
+
 Boy-1 -> ML Model-1: - Training Accuracy=50% and Testing Accuracy=45%
+
 Boy-2 -> ML Model-2: - Training Accuracy=98% and Testing Accuracy=60%
+
 Boy-3 -> ML Model-3: - Training Accuracy=85% and Testing Accuracy=80%
 
 Now understanding in single line,
