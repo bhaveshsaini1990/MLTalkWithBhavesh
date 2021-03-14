@@ -27,13 +27,16 @@ Teacher 3: Yes, go for NPTEL. They are from IIT and will explain in detail.
 Friend 4: Don’t do Java. Just chill and enjoy life. Within 2 days we can pass Java exam.
 Senior 5 (who is currently 7-star Java coder and working in Amazon as a Java developer): Start learning from Head First Java Book and do coding on HackerRank.
 
-So, here in this case even NPTEL is recommended by two persons, you may go for Head First Java book along with HackerRank. But why? Because 5th person should be given more priority as he is currently in good stage in java field.
+So, here in this case even NPTEL is recommended by two persons, you may go for Head First Java book along with HackerRank. But why? Because 5th person should be 
+given more priority as he is currently in good stage in java field.
 Here, you are simply doing Weighted Averaging (another type of ensemble modeling technique).
 
 But now question comes that is these things related to Machine Learning?
 
-Instead of making a single Machine Learning model for prediction. One can make different different models based on different different algorithms and analyze results of all models for giving final prediction. This is known as Ensemble Modeling (model accurany generally increases after using ensembling). 
+Instead of making a single Machine Learning model for prediction. One can make different different models based on different different algorithms and analyze results 
+of all models for giving final prediction. This is known as Ensemble Modeling (model accurany generally increases after using ensembling). 
 
-In all of the above 3 cases, friends, relatives and teachers are nothing but our different different Machine Learning models which are giving their outputs, and we used ensemble techniques to maximize our accuracy.
+In all of the above 3 cases, friends, relatives and teachers are nothing but our different different Machine Learning models which are giving their outputs, and we used 
+ensemble techniques to maximize our accuracy.
 
 Hope you understand the concept behind ensemble model. Stay tuned for Chapter-3
