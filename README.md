@@ -14,8 +14,11 @@
 Case 1: - Suppose, you want to learn Java. But, you don’t know where to learn. So you discussed with friends and teachers. 
 
 Friend 1: Go for YouTube channel Telusko Learning
+
 Friend 2: Go for NPTEL Java course by Dr. Debasis Samantha
+
 Teacher 3: Yes, go for NPTEL. They are from IIT and will explain in detail.
+
 Friend 4: Don’t do Java. Just chill and enjoy life. Within 2 days we can pass Java exam.
 
 So, as two of them said for NPTEL. So you finally decided to learn Java from NPTEL.
@@ -24,7 +27,9 @@ This is nothing but MaxVoting (a type of ensemble model).
 Case 2: - You want to buy a plot at Pune in XYZ location. So you discussed 3 of your relatives in pune about cost estimation of plots in Pune.
 
 Relative 1: It will cost you around 22 Lakhs
+
 Relative 2: Around 15 Lakhs
+
 Relative 3: May be around 20 Lakhs
 
 So, simply you made average (22+15+20)/3=19 and estimated final cost of plots at Pune as 19 Lakhs.
@@ -33,9 +38,13 @@ This is known as Averaging (another type of ensemble modeling).
 Case 3: - Suppose, you want to learn Java. But, you don’t know where to learn. So you discussed with friends, seniors and teachers. 
 
 Friend 1: Go for YouTube channel Telusko Learning
+
 Friend 2: Go for NPTEL Java course by Dr. Debasis Samantha
+
 Teacher 3: Yes, go for NPTEL. They are from IIT and will explain in detail.
+
 Friend 4: Don’t do Java. Just chill and enjoy life. Within 2 days we can pass Java exam.
+
 Senior 5 (who is currently 7-star Java coder and working in Amazon as a Java developer): Start learning from Head First Java Book and do coding on HackerRank.
 
 So, here in this case even NPTEL is recommended by two persons, you may go for Head First Java book along with HackerRank. But why? Because 5th person should be given more priority as he is currently in good stage in java field.
@@ -80,7 +89,9 @@ Boy-3 -> ML Model-3: - Training Accuracy=85% and Testing Accuracy=80%
 Now understanding in single line,
 
 Underfitting/Underlearning – Model working bad on Training as well as Testing dataset.
+
 Overfitting/Memorizing – Model working good on Training dataset but again getting low accuracy in Testing dataset.
+
 Optimum/Best fit/Optimum Learning – Model learning the actual scenario giving good comparable accuracy both in Testing as well as Training phase. 
 
 For more detail refer this Article - https://towardsdatascience.com/underfitting-and-overfitting-in-machine-learning-and-how-to-deal-with-it-6fe4a8a49dbf
